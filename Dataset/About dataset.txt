@@ -1,3 +1,0 @@
-The dataset has been prepared by Society for Imaging Informatics in Medicine(SIIM). The dataset consists of a total of 3279 images, out of 
-which 1800 images are of non-melanoma skin marks(benign) and 1479 images are of melanoma tumors (malignant).All the pictures have been 
-resized to low resolution (224x224x3) RGB for better processing. 
